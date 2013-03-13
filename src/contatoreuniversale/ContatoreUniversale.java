@@ -11,6 +11,8 @@ package contatoreuniversale;
 
 //TODO Implementare Comparable-> Echo
 
+//TODO JavaDoc ..... :)
+
 public class ContatoreUniversale {
 
     int x;
